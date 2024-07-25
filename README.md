@@ -6,6 +6,7 @@ The Road Accident Dashboard in Power BI provides interactive visualizations and 
 a. Identify Data Sources
 
 Accident Data: Gather data on the location, date, time, and severity of road accidents from sources such as government databases or open data platforms.
+
 b. Data Import
 
 Import the collected data into Power BI. Ensure all data is in a compatible format (e.g., CSV, Excel, SQL database).
@@ -15,6 +16,7 @@ a. Data Cleaning
 
 Handle missing or inconsistent data by filling in gaps or removing invalid entries.
 Standardize data formats, such as date and time formats.
+
 b. Data Transformation
 
 Create calculated columns and measures as needed for analysis.
@@ -25,6 +27,7 @@ Create relationships between tables to establish a coherent data model.
 a. Define Relationships
 
 Establish relationships between different data tables to enable accurate and efficient data analysis.
+
 b. Create Measures and Calculations
 
 Define DAX (Data Analysis Expressions) measures for key metrics such as total accidents, fatalities, injuries, and accident rates.
@@ -33,6 +36,7 @@ a. Create Visualizations
 
 Design various visualizations such as bar charts, line charts, maps, and tables to represent the data insights.
 Use Power BI’s visualization tools to create interactive elements like slicers and filters.
+
 b. Layout and Formatting
 
 Arrange visualizations in a logical and visually appealing layout.
